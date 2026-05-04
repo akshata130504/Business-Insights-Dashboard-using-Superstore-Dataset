@@ -1,6 +1,6 @@
 # Business-Insights-Dashboard-using-Superstore-Dataset
 
-# 📊 Business Insights Dashboard using Superstore Dataset
+# 📊 Dashboard using Superstore Dataset with PowerBI and Python
 
 ## 📌 Project Overview  
 This project focuses on analyzing the Superstore dataset to extract meaningful business insights related to sales, profit, and customer behavior. The analysis is performed using Python, and results are visualized through a Power BI dashboard.
