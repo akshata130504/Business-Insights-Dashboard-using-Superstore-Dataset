@@ -65,5 +65,7 @@ This project demonstrates how raw data can be transformed into actionable insigh
 
 ## 🔗 Additional Work  
 A React-based version of this dashboard is developed separately for enhanced flexibility and user experience.
+
 Github Link:https://github.com/akshata130504/Business-Insights-Dashboard-using-React-.git
+
 Deployed Link:business-insights-dashboa-git-43abc8-akshata-t-rathods-projects.vercel.app
